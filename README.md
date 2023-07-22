@@ -1,4 +1,13 @@
 ### Hi there 👋
+- 👋 Hi, I’m Gowtham Geddam
+- 🎓 I'm currently pursuing [B.Tech in CSE](https://cse.iitpkd.ac.in/) at [IIT Palakkad](https://iitpkd.ac.in/)
+- 👀 I’m interested in Web Development and Cyber Security
+- 🌱 I’m currently learning Python.
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/gowthamgeddam)
+- 💻 Here's something <a href="https://gowthamgeddam.github.io"> more </a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=gowthamgeddam.gowthamgeddam)
+
 
 <!--
 **gowthamgeddam/gowthamgeddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
