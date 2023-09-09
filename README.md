@@ -6,7 +6,8 @@
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/gowthamgeddam)
 - 💻 Here's something <a href="https://gowthamgeddam.github.io"> more </a>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=gowthamgeddam.gowthamgeddam)
+### Tools
+[![My Skills](https://skills.thijs.gg/icons?i=c,cpp,html,css,js,postgres,py,git,md,cs,r,vim&theme=dark)](https://skills.thijs.gg)
 
 
 <!--
