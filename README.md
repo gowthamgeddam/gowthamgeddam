@@ -9,7 +9,8 @@
 ### Tools
 [![My Skills](https://skills.thijs.gg/icons?i=c,cpp,html,css,js,postgres,py,git,md,cs,r,vim&theme=dark)](https://skills.thijs.gg)
 
-
+### Badges
+[![An image of @gowthamgeddam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowthamgeddam)](https://holopin.io/@gowthamgeddam)
 <!--
 **gowthamgeddam/gowthamgeddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
