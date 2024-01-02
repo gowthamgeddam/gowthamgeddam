@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 👋 Hi, I’m Gowtham Geddam
+- 👋 I’m Gowtham
 - 🎓 I'm currently pursuing [B.Tech in CSE](https://cse.iitpkd.ac.in/) at [IIT Palakkad](https://iitpkd.ac.in/)
 - 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently [learning Python](https://github.com/gowthamgeddam/learning_python).
+- 🌱 I’m currently [learning how to learn](https://coursera.org/learn/learning-how-to-learn/).
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/gowthamgeddam)
 - 💻 Here's something <a href="https://gowthamgeddam.github.io"> more </a>
 
