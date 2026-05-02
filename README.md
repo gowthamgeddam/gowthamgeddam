@@ -18,3 +18,8 @@ Checkout my <a href="https://gowthamgeddam.github.io"> website </a> for more.
 ### Badges
 [![An image of @gowthamgeddam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gowthamgeddam)](https://holopin.io/@gowthamgeddam)
 
+### Profiles
+
++ HackerRank - [gowthamgeddam](https://www.hackerrank.com/profile/gowthamgeddam)
++ LinkedIn - [gowthamgeddam](https://www.linkedin.com/in/gowthamgeddam)
++ Keybr - [Relevant Minnow](https://www.keybr.com/profile/j3wgift)
